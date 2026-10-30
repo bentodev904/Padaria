@@ -1,14 +1,8 @@
-# Astro Starter Kit: Basics
+# PADARIA   
 
-```sh
-npm create astro@latest -- --template basics
-```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Padaria E-commerce website development for Redoor :P
 
 ## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
 
 ```text
 /
@@ -17,18 +11,16 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── src
 │   ├── assets
 │   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
+│   ├── react
+│   │   └── main.jsx
 │   └── pages
 │       └── index.astro
 └── package.json
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+The project already is ready to development with Astro, React.js and Bootstrap already integrated. 
 
-## 🧞 Commands
+## 🧞 Astro Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -41,6 +33,9 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 Documentation?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Please carefully read the following docs:
+[Astro Docs](https://docs.astro.build)
+[React Docs](https://react.dev/reference/react)
+[Bootstrap Docs](https://getbootstrap.com/docs/6.0/getting-started/install/)
